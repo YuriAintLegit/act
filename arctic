@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fixed Background</title>
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            background-image: url('https://i.pinimg.com/1200x/c9/ee/22/c9ee2275bac0e3624086d11506b32075.jpg');
+            background-repeat: no-repeat;
+            background-size: cover;           /* Covers the entire viewport */
+            background-position: center;      /* Centers the image */
+            background-attachment: fixed;     /* Optional: keeps image fixed while scrolling */
+            min-height: 100vh;
+            font-family: Arial, sans-serif;
+        }
+ 	</style>
+
+<marquee behavior="alternate" direction="left" scrollamount="11">
+    <h3 style="color: white" style="font family: Serif"> Arctic Monkey </h3>
+
+</marquee>
+
+<center>
+	<img src="white.png">
+	<h3 style="color: white" style="font-family:Sans"> Secret Doors </h3>
+	<h4 style="color: white"> Arctic Monkey </h4>
+	<p style="color: white">
+
+<pre style="color: white">
+
+[Intro]
+&nbsp;
+Fools on parade cavort and carry on for waiting eyes<br>
+That you would rather be beside than in front of<br>
+But she's never been the kind to be hollowed by the stares
+</pre>
+
+
+<pre style="color: white">
+
+[Verse 1]
+&nbsp;
+She swam out of tonight's phantasm<br>
+Grabbed my hand and made it very clear<br>
+"There's absolutely nothing for us here"<br>
+It's a magnolia celebration to be attended on a Wednesday night<br>
+It's better than to get a reputation as a miserable little tyke<br>
+At least, that's the conclusion, she came to in this overture<br>
+
+[Chrorus]
+&nbsp;
+And the secret door swings behind us<br>
+She's saying nothing<br>
+She's just giggling along<br>
+Her arms were folded the most indignant<br>
+Not looking like she was soon to leave<br>
+I had to squint in order to believe<br>
+And then, like a butler pushing on a bookshelf, I'm unveiling the unexpected<br>
+I, who was earlier reluctant, was suddenly embarrassed and corrected<br>
+How could such a creature survive in such a habitat?<br>
+
+<pre>
+
+[Verse 2]
+&nbsp;
+And the secret door swings behind us<br>
+She's saying nothing<br>
+She's just giggling along<br>
+Even if they were to find us<br>
+I wouldn't notice<br>
+I'm completely occupied<br>
+
+[Bridge]
+&nbsp;
+As all the fools on parade cavort and carry on for waiting eyes<br>
+Ones you would rather be beside than in front of<br>
+But she's never been the kind to be hollowed by the stares<br>
+Fools on parade frolic and fuck about to make her gaze<br>
+Turn to a scribble on a page by a picture that holds her absence<br>
+But you're daft to think she'd care<br>
+
+[Outro]
+&nbsp;
+Fools on parade<br>
+Fools on parade<br>
+Fools on parade conduct a sing-along<br>
+</p>
+
+  <h3 style="
+    color: white; 
+    font-weight: bold; 
+    display: inline-block;
+    padding: 12px 25px;
+    background: rgba(0, 0, 0, 0.5);
+    border: 2px solid rgba(254, 254, 254, 0.64);
+    border-radius: 25px;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3);
+    margin: -15px auto;
+    text-align: center;
+    letter-spacing: 1px;
+">
+    ▶︎ •၊၊||၊|။||||။‌‌‌‌‌၊|• 3:44 ▶︎
+</h3>
+
+
+    <marquee behavior="alternate" direction="left" scrollamount="11">
+    <h3 style="color: white" style="font family: Serif"> Arctic Monkey </h3>
+
+</marquee>
+
+
+
+</center>
+
+
+</body>
+</html>
