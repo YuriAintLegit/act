@@ -5,7 +5,7 @@
         body {
             margin: 0;
             padding: 0;
-            background-image: url('https://i.pinimg.com/736x/7c/f2/59/7cf2593e1625bed08d90a25f8960d3e8.jpg');
+            background-image: url('https://cdn.discordapp.com/attachments/1513090729432322239/1524677384157139024/wagurii.jpeg?ex=6a509df7&is=6a4f4c77&hm=c18ff6d95431109642742ee54f76b02286a3ed0907321dccb7931d9949fba347&');
             background-repeat: no-repeat;
             background-size: cover;           /* Covers the entire viewport */
             background-position: center;      /* Centers the image */
@@ -16,6 +16,7 @@
  	</style>
 
 <marquee behavior="alternate" direction="left" scrollamount="11">
+
     <h3 style="color: white" style="font family: Serif"> Arctic Monkey </h3>
 
 </marquee>
@@ -106,13 +107,10 @@ Fools on parade conduct a sing-along<br>
     ▶︎ •၊၊||၊|။||||။‌‌‌‌‌၊|• 3:44 ▶︎
 </h3>
 
-
     <marquee behavior="alternate" direction="left" scrollamount="11">
     <h3 style="color: white" style="font family: Serif"> Arctic Monkey </h3>
 
-</marquee>
-
-
+        </marquee>
 
 </center>
 
